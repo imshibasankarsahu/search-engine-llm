@@ -1,0 +1,17 @@
+streamlit
+langchain_community
+langchain
+langchain-groq
+langchain-huggingface
+sentence-transformers
+arxiv
+wikipedia
+mysql-connector-python
+SQLAchemy
+validators
+youtube_transcript_api
+pytube
+langchain-experimental
+langchain_higgingface
+huggingface_hub
+lanmini
